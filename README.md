@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevensermeus&label=Profile%20views&color=0e75b6&style=flat" alt="stevensermeus" /> </p>
 
-- 🔭 I’m currently working on **Elorace tracker**
+- 🔭 I’m currently working on **on my finals.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS CDK**
 
 - 👨‍💻 All of my projects are available at [http://www.stevensermeus.be](http://www.stevensermeus.be)
 
