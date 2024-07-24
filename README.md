@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevensermeus&label=Profile%20views&color=0e75b6&style=flat" alt="stevensermeus" /> </p>
 
-- 🔭 I’m currently working on **on my finals.**
+- 🔭 I’m currently working on **my finals.**
 
 - 🌱 I’m currently learning **AWS CDK**
 
